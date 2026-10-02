@@ -34,6 +34,10 @@ Without a mod, everything comes from the save, at the autosave interval (usually
 **Detailed guides in the [wiki](https://github.com/Fade97/satisfactory-logistics-map/wiki)**: installation,
 save source per server type, live data, reverse proxy, how-tos, troubleshooting, API.
 
+## TODO-List
+We will add another page for spreading tasks between players
+
+
 ## Quick start with Docker
 
 ```sh
