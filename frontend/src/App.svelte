@@ -24,7 +24,7 @@
 
   const NAV = [
     ['overview', tr('Overview'), '◉'], ['map', tr('Map'), '◧'], ['production', tr('Production'), '⚙'], ['power', tr('Power'), 'ϟ'],
-    ['logistics', tr('Logistics'), '⇄'], ['history', tr('History'), '∿'], ['planner', tr('Planner'), '∑'],
+    ['logistics', tr('Logistics'), '⇄'], ['history', tr('History'), '∿'], ['planner', tr('Planner'), '∑'], ['ProjectPlanner', tr('ProjectPlanner'), '▦'],
   ];
   let feedOpen = $state(false);
 
