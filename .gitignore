@@ -17,3 +17,7 @@ out/
 web/
 *.tar.gz
 tests/fixtures/*.sav
+
+# Lennards Stuff
+
+# Fabsis Stuff

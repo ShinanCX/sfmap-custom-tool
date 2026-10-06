@@ -35,7 +35,14 @@ Without a mod, everything comes from the save, at the autosave interval (usually
 save source per server type, live data, reverse proxy, how-tos, troubleshooting, API.
 
 ## TODO-List
-We will add another page for spreading tasks between players
+We will add another page for spreading tasks between players:
+- Tasks creation (build production X; connect between Buildings; connect between MegaFactories; upgradeFactory)
+- Tasks are created along with pre-defined subtasks
+- Players can claim subtasks of a Task. Everyone can see which Tasks/subtasks are being worked on by each players
+- Each subtask/task is assocaited with a list of Norms to setting it up.
+- Interface for users to create/edit/delete Norms.
+- Norms are either for a subtasks or even an overall Task
+
 
 
 ## Quick start with Docker
